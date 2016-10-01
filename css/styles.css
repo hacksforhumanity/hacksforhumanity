@@ -346,6 +346,31 @@ Navigation
 /* ==========================================================================
 Hero
 ========================================================================== */
+.hero2 {
+  min-height: 750px;
+  background: url(../img/gif.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+   }
+  .hero2 .down-arrow a {
+    color: #fff; }
+  .hero2 h1 {
+    color: #fff;
+    margin-bottom: 40px; }
+  .hero2 p.intro {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 80px; }
+  .hero2 .hero-content {
+    padding-top: 26%; }
+
+
+
 .hero {
   min-height: 750px;
   background: url("../img/hero.jpg") center center;
